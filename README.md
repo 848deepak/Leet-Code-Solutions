@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/848deepak/Leet-Code-Solutions/tree/master/0189-rotate-array) |
 | [3221-find-the-peaks](https://github.com/848deepak/Leet-Code-Solutions/tree/master/3221-find-the-peaks) |
 ## Enumeration
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/848deepak/Leet-Code-Solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/848deepak/Leet-Code-Solutions/tree/master/0258-add-digits) |
 ## Simulation
 |  |
@@ -21,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/848deepak/Leet-Code-Solutions/tree/master/0258-add-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/848deepak/Leet-Code-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
